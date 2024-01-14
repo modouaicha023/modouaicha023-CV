@@ -33,7 +33,7 @@ export const RESUME_DATA = {
   summary:
     "I'm a junior software developer with 6 months of experience. I'm currently working at AKASSAA as a Full Stack Developer. I'm passionate about building products that help people and make their lives easier. I'm a fast learner and I'm not afraid of new challenges. I'm always looking for an opportunity where I can learn and grow as a developer.",
   avatarUrl:
-    "https://avatars.githubusercontent.com/u/86145486?s=400&u=2956d9402a142c1ac031c34a190dcabf120b11d2&v=4",
+    "https://ucarecdn.com/999a7f68-f614-4337-93a2-14e24c512350/d66sjp.jpg",
   personalWebsiteUrl: "https://modouaicha023.vercel.app",
   contact: {
     email: "modouaichadiop@gmail.com",
