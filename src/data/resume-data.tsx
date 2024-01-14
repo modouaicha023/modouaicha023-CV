@@ -16,7 +16,12 @@ import {
   TastyCloudLogo,
   YearProgressLogo,
 } from "@/images/logos";
-import { GitHubIcon, LinkedInIcon, XIcon, YoutubeIcon } from "@/components/icons";
+import {
+  GitHubIcon,
+  LinkedInIcon,
+  XIcon,
+  YoutubeIcon,
+} from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Modou Aicha Diop",
@@ -106,25 +111,31 @@ export const RESUME_DATA = {
         "Development of a henhouse management web application with Html, Css and JavaScript.",
     },
   ],
-  skills: ["JavaScript", "TypeScript", "React/Next.js", "Node.js", "HTML/CSS","PHP"],
+  skills: [
+    "JavaScript",
+    "TypeScript",
+    "React/Next.js",
+    "Node.js",
+    "HTML/CSS",
+    "PHP",
+  ],
   projects: [
-    // {
-    //   title: "Consultly",
-    //   techStack: [
-    //     "Side Project",
-    //     "TypeScript",
-    //     "Next.js",
-    //     "Vite",
-    //     "GraphQL",
-    //     "WebRTC",
-    //   ],
-    //   description: "A platform to build and grow your online business",
-    //   logo: ConsultlyLogo,
-    //   link: {
-    //     label: "consultly.com",
-    //     href: "https://consultly.com/",
-    //   },
-    // },
+    {
+      title: "Galsen Coding Challenge",
+      techStack: [
+        "TypeScript",
+        "Next.js",
+        "Shadcn UI",
+        "MongoDB",
+      ],
+      description:
+        "The goal of this project is to provide a platform for coding challenges and collaboration within the Galsen (Senegal) coding community.",
+      // logo: ConsultlyLogo,
+      link: {
+        label: "galsencodingchallenges.com",
+        href: "https://galsen-coding-challenge.vercel.app",
+      },
+    },
     // {
     //   title: "Monito",
     //   techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
