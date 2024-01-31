@@ -96,8 +96,7 @@ export const RESUME_DATA = {
       // logo: ClevertechLogo,
       start: "09/2023",
       end: "10/2023",
-      description:
-        "Development of a Fast Food website with Html, CSS and JavaScript as Frontend and PHP as Backend.",
+      description:""
     },
     {
       company: "FALLATECH",
@@ -120,22 +119,22 @@ export const RESUME_DATA = {
     "PHP",
   ],
   projects: [
-    {
-      title: "Galsen Coding Challenge",
-      techStack: [
-        "TypeScript",
-        "Next.js",
-        "Shadcn UI",
-        "MongoDB",
-      ],
-      description:
-        "The goal of this project is to provide a platform for coding challenges and collaboration within the Galsen (Senegal) coding community.",
-      // logo: ConsultlyLogo,
-      link: {
-        label: "galsencodingchallenges.com",
-        href: "https://galsen-coding-challenge.vercel.app",
-      },
-    },
+    // {
+    //   title: "Galsen Coding Challenge",
+    //   techStack: [
+    //     "TypeScript",
+    //     "Next.js",
+    //     "Shadcn UI",
+    //     "MongoDB",
+    //   ],
+    //   description:
+    //     "The goal of this project is to provide a platform for coding challenges and collaboration within the Galsen (Senegal) coding community.",
+    //   // logo: ConsultlyLogo,
+    //   link: {
+    //     label: "galsencodingchallenges.com",
+    //     href: "https://galsen-coding-challenge.vercel.app",
+    //   },
+    // },
     // {
     //   title: "Monito",
     //   techStack: ["Side Project", "TypeScript", "Next.js", "Browser Extension"],
