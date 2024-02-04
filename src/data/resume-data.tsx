@@ -85,8 +85,7 @@ export const RESUME_DATA = {
       // logo: ParabolLogo,
       start: "01/2024",
       end: "Present",
-      description:
-        "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
+      description:""
     },
     {
       company: "Creations Design Studio",
@@ -96,7 +95,8 @@ export const RESUME_DATA = {
       // logo: ClevertechLogo,
       start: "09/2023",
       end: "10/2023",
-      description:""
+      description:
+        "Development of a Fast Food website with Html, CSS and JavaScript as Frontend and PHP as Backend.",
     },
     {
       company: "FALLATECH",
