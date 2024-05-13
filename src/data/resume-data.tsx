@@ -28,16 +28,15 @@ export const RESUME_DATA = {
   initials: "MAD",
   location: "Dakar, Senegal",
   locationLink: "https://www.google.com/maps/place/Dakar",
-  about:
-    "Software Developer focused on building coll stuff on the web and mobile.",
+  about: "Software Developer focused on building coll stuff on the web.",
   summary:
-    "I'm a junior software developer with 6 months of experience. I'm currently working at AKASSAA as a Full Stack Developer. I'm passionate about building products that help people and make their lives easier. I'm a fast learner and I'm not afraid of new challenges. I'm always looking for an opportunity where I can learn and grow as a developer.",
+    "I'm a software developer with les  than 1 year of experience. I'm currently working at AKASSAA as a Full Stack Developer. I'm passionate about building products that help people and make their lives easier. I'm a fast learner and I'm not afraid of new challenges. I'm always looking for an opportunity where I can learn and grow as a developer.",
   avatarUrl:
     "https://ucarecdn.com/999a7f68-f614-4337-93a2-14e24c512350/d66sjp.jpg",
   personalWebsiteUrl: "https://modouaicha023.vercel.app",
   contact: {
     email: "modouaichadiop@gmail.com",
-    tel: "+221781606189",
+    tel: "",
     social: [
       {
         name: "GitHub",
@@ -72,20 +71,21 @@ export const RESUME_DATA = {
       school: "Cheikh Hamidou KANE Digital University",
       degree:
         "Mathematical Modeling, Analysis and Numerical Simulation (MANS) ",
-      start: "2020",
-      end: "2021",
+      start: "2019",
+      end: "2020",
     },
   ],
   work: [
     {
       company: "AKASSAA",
       link: "https://akassaa.com",
-      badges: ["On-site"],
+      badges: ["Hybrid"],
       title: "Full Stack Developer",
       // logo: ParabolLogo,
       start: "01/2024",
-      end: "Present",
-      description:""
+      end: "06/2024",
+      description:
+        "Engaged in various digitalization projects utilizing Odoo, NestJS, and Next.js frameworks, alongside working on WordPress websites.",
     },
     {
       company: "Creations Design Studio",
@@ -112,11 +112,13 @@ export const RESUME_DATA = {
   ],
   skills: [
     "JavaScript",
-    "TypeScript",
-    "React/Next.js",
-    "Node.js",
-    "HTML/CSS",
+    "React",
+    "Express",
     "PHP",
+    "NestJS",
+    "NextJS",
+    "Odoo",
+    "WordPress",
   ],
   projects: [
     // {
@@ -210,7 +212,6 @@ export const RESUME_DATA = {
     //   title: "Evercast",
     //   techStack: [
     //     "Lead Frontend Developer",
-
     //     "TypeScript",
     //     "React",
     //     "Node.js",
