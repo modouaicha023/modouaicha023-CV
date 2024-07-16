@@ -32,7 +32,7 @@ export const RESUME_DATA = {
   summary:
     "I'm a software developer with 1 year of experience. I'm passionate about building products that help people and make their lives easier. I'm a fast learner and I'm not afraid of new challenges. I'm always looking for an opportunity where I can learn and grow as a developer.",
   avatarUrl:
-    "https://ucarecdn.com/90007070-aef5-4954-9e06-2ef27300a46b/IMG_0255.JPEG",
+    "https://ucarecdn.com/b5010675-4b78-46f4-803c-039cbf9c1060/modouaicha023.png",
   personalWebsiteUrl: "https://modouaicha023.vercel.app",
   contact: {
     email: "modouaichadiop@gmail.com",
