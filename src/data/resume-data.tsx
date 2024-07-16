@@ -119,6 +119,8 @@ export const RESUME_DATA = {
     "NextJS",
     "Odoo",
     "WordPress",
+    "Docker",
+    "Python"
   ],
   projects: [
     // {
