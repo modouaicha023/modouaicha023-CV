@@ -112,15 +112,17 @@ export const RESUME_DATA = {
   ],
   skills: [
     "JavaScript",
+    "TypeScript",
+    "Java",
+    "Python",
+    "PHP",
     "React",
     "Express",
-    "PHP",
     "NestJS",
     "NextJS",
     "Odoo",
     "WordPress",
     "Docker",
-    "Python"
   ],
   projects: [
     // {
