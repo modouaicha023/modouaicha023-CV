@@ -83,7 +83,7 @@ export const RESUME_DATA = {
       title: "Full Stack Developer",
       // logo: ParabolLogo,
       start: "01/2024",
-      end: "07/2024",
+      end: "Present",
       description:
         "Engaged in various digitalization projects utilizing Odoo, NestJS, and Next.js frameworks, alongside working on WordPress websites.",
     },
